@@ -1,8 +1,9 @@
 # LeBouton (v1.1)
 The LeBouton, is  a one Button Cue-Controller, with multiple options for controlling software like:
 QLAB®, GO-Button®, Ableton© Live®, Microsoft PowerPoint, Apple Keynote, PDF Readers or Apple PhotoBoth.
-
 Simple to use and no needs of drivers or software setup.
+
+Based on a TeensyLC or Teensy 4.0
 The unit has an USB-Port and a standard MIDI port.
 On USB the device work as HID keyboard, which sends selectable types of keystrokes especially dedicated for the softwares listed above. Choose between one of follow keystrokes:
 SPACE, ENTER, Arrow Up, Arrow Down, Arrow Left, Arrow Right, Page Up, Page Down, a, 1, TAB, F5
