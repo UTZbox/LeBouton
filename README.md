@@ -1,5 +1,5 @@
 # LeBouton (v1.1)
-The LeBouton, is  a one Button Cue-Controller, with multiple options for controlling software like:
+The LeBouton, is a single Button Cue-Controller, with multiple options for controlling software like:
 QLAB®, GO-Button®, Ableton© Live®, Microsoft PowerPoint, Apple Keynote, PDF Readers or Apple PhotoBoth.
 Simple to use and no needs of drivers or software setup.
 
