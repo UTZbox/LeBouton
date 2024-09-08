@@ -3,8 +3,7 @@ The LeBouton, is a single Button Cue-Controller, with multiple options for contr
 QLAB®, GO-Button®, Ableton© Live®, Microsoft PowerPoint, Apple Keynote, PDF Readers or Apple PhotoBoth.
 Simple to use and no needs of drivers or software setup.
 
-
-![LeBoutonTopView](https://github.com/user-attachments/assets/06981e6e-1c53-4748-9d60-17f80bf99cbb)
+![LeBoutonTopViewSmall](https://github.com/user-attachments/assets/c380fbdd-f181-4a9e-9e22-fe326e6d1962)
 
 
 Based on a TeensyLC or Teensy 4.0
